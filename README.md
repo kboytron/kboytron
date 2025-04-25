@@ -1,4 +1,62 @@
-# kboytron's GitHub Stats
+# Hi there 👋    ![Profile Views](https://komarev.com/ghpvc/?username=kboytron&color=blue)    
+
+My name is **Karan Singh**, and I am a **Software Engineer** and **Data Engineer**  
+with a strong foundation in full-stack development, machine learning, and cloud infrastructure.
+
+> 💼 I worked as a **Software Engineer** at Labelbox and as a **Data Engineer Intern** at 8AM App,  
+focusing on AI training workflows, ETL pipelines, and data visualization.
+
+> 📜 I’m passionate about building scalable systems,  
+from speech recognition platforms to solar analytics tools, and I’m always exploring new tech.
+
+---
+
+### 🎓 Education
+
+- **B.A., Computer Science** - University of Iowa - 2024
+
+---
+
+### ⚙️ Tech Stack Highlights
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,cpp,sql,aws,docker,git,linux,vscode" height="65">
+</p>
+
+---
+
+### 💻 Software Projects
+
+- **SolarEnergyViz** [Code](https://github.com/kboytron/solarenergyviz)  
+    > *A machine learning-powered solar analytics platform using Python, Pandas, and JavaScript.*  
+    > *Visualizes 12+ years of solar data with time-series forecasting via Prophet.*
+
+- **Dijkstra Duel** [Code](https://github.com/kboytron/dijkstra-duel)  
+    > *Interactive visualization of Dijkstra's algorithm using JavaScript and React.js.*  
+    > *Compares linear search vs. priority queue up to 25 node graphs.*
+
+---
+
+### 🧬 Data & ML Projects
+
+- **SpeechServe** [Code](https://github.com/kboytron/speechserve)  
+    > *A speech recognition system with forced alignment and CTC-based decoding, built with Python, TensorFlow, and AWS (SageMaker, Lambda).*  
+    > *Achieved reliable forced alignment on dev utterance using beam search decoding, enabling accurate timing analysis for transcripts; currently building a FastAPI backend for real-time transcription with sub-second latency.*
+
+- **ETL Pipelines for 8AM App**  
+    > *Designed efficient ETL pipelines with AWS Glue, Python, and SQL to process 6TB of customer data.*  
+    > *Reduced processing time by 40% and improved revenue forecasting accuracy by 30%.*
+
+---
+
+### 🏆 Certifications & Awards
+
+- **AWS Certified Data Engineer (DEA-C01)**, **AWS Certified Solutions Architect (SAA-C03)**, **AWS Certified Developer (DVA-C02)**, **AWS Certified Cloud Practitioner (CLF-C02)**, **Google Data Analytics**
+- **Best Data Visualization Award** at Hack UIowa (SolarEnergyViz)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   
@@ -7,17 +65,14 @@
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kboytron&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff)](https://github.com/kboytron)
 
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+</div>
 
-## 🔍 Connect
+---
+
+### 🔍 Connect
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karansingh2/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kss4398@protonmail.com)
 
